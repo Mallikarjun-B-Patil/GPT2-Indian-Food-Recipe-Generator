@@ -58,5 +58,5 @@ Training was done using Hugging Face `Trainer` API.
 
 ### 1. Clone Repository  
 ```bash
-git clone https://github.com/your-username/GPT2-Indian-Food-Recipe-Generator.git
+git clone https://github.com/Mallikarjun-B-Patil/GPT2-Indian-Food-Recipe-Generator.git
 cd GPT2-Indian-Food-Recipe-Generator
