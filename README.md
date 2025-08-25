@@ -54,9 +54,9 @@ Training was done using Hugging Face `Trainer` API.
 
 ---
 
-## ✅ Results & Insights  
-After fine-tuning, the model was able to generate coherent and culturally relevant Indian recipes. Here are some examples:  
+## 🚀 How to Run  
 
-### **Example 1**  
-**Prompt:** *Paneer Butter Masala*  
-
+### 1. Clone Repository  
+```bash
+git clone https://github.com/your-username/GPT2-Indian-Food-Recipe-Generator.git
+cd GPT2-Indian-Food-Recipe-Generator
