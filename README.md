@@ -17,6 +17,39 @@ This project demonstrates the power of **Generative AI** by leveraging **GPT-2**
 
 ---
 
-## 📂 Project Structure  
+## 🛠️ Technologies Used  
+- Python  
+- PyTorch / TensorFlow  
+- Hugging Face Transformers  
+- GPT-2  
+- Google Colab (for training)  
 
+---
+
+## 📊 Dataset  
+The dataset consists of authentic Indian recipes collected from publicly available sources. It includes:  
+- **Dish Name**  
+- **Ingredients List**  
+- **Preparation Steps**  
+
+---
+
+## ⚙️ Model Training  
+The GPT-2 model was fine-tuned using Hugging Face’s `transformers` library.  
+
+**Training Details:**  
+- **Base Model:** GPT-2  
+- **Training Steps:** X  
+- **Batch Size:** X  
+- **Learning Rate:** X  
+- **Optimizer:** AdamW  
+
+---
+
+## 🚀 How to Run  
+
+### 1. Clone the Repository  
+```bash
+git clone https://github.com/yourusername/GPT2-Indian-Food-Recipe-Generator.git
+cd GPT2-Indian-Food-Recipe-Generator
 
